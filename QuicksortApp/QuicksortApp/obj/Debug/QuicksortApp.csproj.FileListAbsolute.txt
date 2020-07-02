@@ -1,0 +1,14 @@
+C:\Users\u1\Desktop\ТРПО\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\obj\Debug\QuicksortApp.csprojAssemblyReference.cache
+C:\Users\u1\Desktop\ТРПО\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\obj\Debug\QuicksortApp.csproj.CoreCompileInputs.cache
+C:\Users\u1\Desktop\ТРПО\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\bin\Debug\QuicksortApp.exe.config
+C:\Users\u1\Desktop\ТРПО\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\bin\Debug\QuicksortApp.exe
+C:\Users\u1\Desktop\ТРПО\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\bin\Debug\QuicksortApp.pdb
+C:\Users\u1\Desktop\ТРПО\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\obj\Debug\QuicksortApp.exe
+C:\Users\u1\Desktop\ТРПО\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\obj\Debug\QuicksortApp.pdb
+C:\Users\Win10\Desktop\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\bin\Debug\QuicksortApp.exe.config
+C:\Users\Win10\Desktop\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\bin\Debug\QuicksortApp.exe
+C:\Users\Win10\Desktop\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\bin\Debug\QuicksortApp.pdb
+C:\Users\Win10\Desktop\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\obj\Debug\QuicksortApp.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\obj\Debug\QuicksortApp.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\obj\Debug\QuicksortApp.exe
+C:\Users\Win10\Desktop\Болкот\QuicksortApp\QuicksortApp\QuicksortApp\obj\Debug\QuicksortApp.pdb
